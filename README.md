@@ -1,4 +1,4 @@
-Project Summary: Python Command-Line Contact Manager
+# Project Summary: Python Command-Line Contact Manager
 Brief Project Introduction
 This is a Python-based command-line application designed to efficiently manage contacts. The system utilizes File I/O (Input/Output) and Exception Handling to ensure data is stored securely and persistently.
 
